@@ -1,0 +1,4 @@
+Flask
+numpy
+pymongo
+scikit-learn
